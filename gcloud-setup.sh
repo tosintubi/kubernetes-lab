@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 #gcloud projects create project-kubernetes-hard-way --name= "Kubernetes the Hard way Project"  --labels=type=k8-hard
 
 REGION=europe-west3
